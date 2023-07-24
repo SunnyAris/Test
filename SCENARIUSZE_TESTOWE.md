@@ -29,7 +29,7 @@ Teraz możemy dobrać lub stworzyć przypadki testowe (test cases).
 
 Autor: XXX
 
-Data utworzenia:01.01.01
+Data utworzenia: 01.01.01
 
 
 ```
@@ -37,7 +37,8 @@ Test Case 1a: Użytkownik poprawnie rejestruje się do aplikacji
 
 Warunek wstępny: Posiadanie aktywnego adresu e-mail.
 
-Kroki testowe
+Kroki testowe:
+
 1. Rejestrowanie się nowego użytkowania przez podanie poprawnego adresu e-mail
 
 2. Spełniającego wymogi hasła (o odpowiedniej długości i zawierającego dopuszczalne znaki)
@@ -51,8 +52,9 @@ Test Case 1b: Użytkownik próbuje zarejestrować się do aplikacji używając n
 
 Warunek wstępny: Posiadanie niepoprawnego adresu e-mail
 
-Kroki testowe
-1.Rejestrowanie się nowego użytkowania przez podanie niepoprawnego adresu e-mail spełniającego wymogi hasła (o odpowiedniej długości i zawierającego dopuszczalne znaki)
+Kroki testowe:
+
+1. Rejestrowanie się nowego użytkowania przez podanie niepoprawnego adresu e-mail spełniającego wymogi hasła (o odpowiedniej długości i zawierającego dopuszczalne znaki)
 
 2. Przejście testu CAPTCHA 
 
@@ -65,8 +67,8 @@ Test Case 1c: Użytkownik próbuje zarejestrować się używając adresu e-mail 
 
 Warunek wstępny: Posiadanie adresu e-mail z zarejestrowanym użytkownikiem  
 
+Kroki testowe:
 
-Kroki testowe
 1. Próba rejestracji użytkownika z takim samym adresem e-mail i hasłem, co zarejestrowany już użytkownik 
 
 Oczekiwany rezultat: Pojawienie się komunikatu " Ten adres e-mail jest już zajęty. Wybierz inny adres"
@@ -78,13 +80,14 @@ Oczekiwany rezultat: Pojawienie się komunikatu " Ten adres e-mail jest już zaj
 
 Autor: XXX
 
-Data utworzenia:01.01.01
+Data utworzenia: 01.01.01
 ```
 Test Case 2a. Poprawne zalogowanie się użutkownika
 
 Warunek wstępny: Użytkownik posiada aktywne konto w aplikacji
 
-Kroki testowe
+Kroki testowe:
+
 1. Otwarcie aplikacji webowej
 
 2. Wprowadzenie prawidłowej nazwy użytkownika w polu "Login"
@@ -101,6 +104,7 @@ Test Case 2b. Nieudane logowanie użutkownika do aplikacji przy użyciu niepopra
 Warunek wstępny: Użytkownik posiada aktywne konto w aplikacji
 
 Kroki testowe: 
+
 1. Otwarcie aplikacji webowej
 
 2. Wprowadzenie prawidłowej nazwy użytkownika w polu "Login"
@@ -113,7 +117,7 @@ Oczekiwany rezultat: Pojawienie się komunikatu "Błędne hasło"
 ```
 ### Scenariusz testowy powinien składać się z:
 
-#### Identyfikacja scenariusza testowego – w tej sekcji dokumentowane są takie dane jak: :
+#### Identyfikacji scenariusza testowego – w tej sekcji dokumentowane są takie dane jak: :
 - id scenariusza
 - nazwa scenariusza
 - opis scenariusza (cele)
