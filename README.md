@@ -1,7 +1,6 @@
 ### Typowe cele testowania 
 
-W przypadku każdego projektu cele testowania mogą być realizowane między innymi poprzez 
-następujące czynności:
+#### W przypadku każdego projektu cele testowania mogą być realizowane między innymi poprzez następujące czynności:
 
 • zapobieganie defektom poprzez dokonywanie oceny produktów pracy, takich jak: wymagania, 
 historyjki użytkownika, projekt i kod;
@@ -21,8 +20,7 @@ z niedostateczną jakością oprogramowania;
 • przestrzeganie wymagań wynikających z umów, przepisów prawa i norm/standardów i/lub 
 sprawdzanie, czy obiekt testów jest zgodny z tymi wymaganiami lub standardami.
 
-Cele testowania mogą różnić się w zależności od kontekstu testowanego modułu lub systemu, poziomu 
-testów oraz modelu cyklu życia oprogramowania.
+#### Cele testowania mogą różnić się w zależności od kontekstu testowanego modułu lub systemu, poziomu testów oraz modelu cyklu życia oprogramowania.
 
 • W przypadku testowania modułowego jednym z celów może być wykrycie jak największej liczby 
 awarii, a w rezultacie wczesne zidentyfikowanie i usunięcie powodujących je defektów. Innym 
