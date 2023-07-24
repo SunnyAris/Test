@@ -73,7 +73,7 @@ Na przykład, jeśli robisz test wydajności, możesz spojrzeć na takie metryki
 Tutaj umieszczamy wszystkie elementy, warunki, które muszą zostać spełnione, aby rozpocząć testowanie, czyli np. działające środowisko testowe, dostępny zespół ludzi o odpowiednich kompetencjach technicznych i biznesowych, czy zakończone określone fazy developmentu.
 
 
-#### • Kryteria wyjścia
+#### Kryteria wyjścia
 Określają, kiedy można przerwać testowanie danej funkcji - stan, w którym stwierdzamy, że dana funkcja działa zgodnie z przyjętymi założeniami.
 
 #### Rzadziej spisywane są kryteria zawieszenia
