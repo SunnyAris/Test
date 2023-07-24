@@ -2,7 +2,7 @@
 
 Inaczej mówiąc, scenariusz składa się z przypadków testowych w celu przetestowania konkretnej funkcjonalności systemu.
 
-Scenariusze testowe opracowywane są na podstawie Specyfikacji Wymagań Biznesowych lub Specyfikacji Wymagań Systemowych. Określają, co – np. jaka funkcjonalność – ma być przedmiotem testów.
+Scenariusze testowe opracowywane są na podstawie Specyfikacji Wymagań Biznesowych lub Specyfikacji Wymagań Systemowych. Określają jaka funkcjonalność i co ma być przedmiotem testów.
 
 ### Przykładowe funkcjonalności: 
 
